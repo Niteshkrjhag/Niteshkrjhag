@@ -7,12 +7,14 @@
 **📍 Currently a Pre-final Year B.Tech Student | NIT Srinagar | Computer Science**
 
 ---
-
+ <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    
 ## 📘 About Me
 
-Hi! I’m a passionate developer with a focus on **Android Development**, **Data Structures and Algorithms**, and an avid interest in **solving real-world problems** through technology. Currently, I’m pursuing my B.Tech in Computer Science from NIT Srinagar, diving deep into the core and emerging areas of software development.
-
-Driven by curiosity, I am constantly exploring multiple tech stacks to refine my skills and bring ideas to life. Be it **building efficient data structures**, creating **responsive mobile apps**, or collaborating on team-based solutions, I’m on a mission to develop practical solutions that stand out.
+Hello, I'm a pre-final year Computer Science student at NIT Srinagar, with a focus on Android development and a knack for problem-solving. I enjoy tackling complex challenges in Data Structures and Algorithms and building apps that people love to use.
+Curiosity, lifelong learning, and a commitment to excellence are what drive my career in technology. Whether it's designing intuitive mobile interfaces, optimizing backend logic, or diving into a new tech stack, I'm always excited to bring ideas to life in a meaningful way.
+Be it **building efficient data structures**, creating **responsive mobile apps**, or collaborating on team-based solutions, I’m on a mission to develop practical solutions that stand out.
 
 ---
 
@@ -37,73 +39,56 @@ Driven by curiosity, I am constantly exploring multiple tech stacks to refine my
 > "Technology is best when it brings people together." – Matt Mullenweg
 
 ---
+- 📫 How to reach me **niteshkrjhag@gmail.com**
 
-### 🛠️ Projects & Practical Work
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nitesh-kr-jha-🏹-959595250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitesh-kr-jha-🏹-959595250/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/27419971/arjuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27419971/arjuna" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/niteshkrjha01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/niteshkrjha01" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/arjuna_undefined" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/arjuna_undefined" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/hero_nitesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hero_nitesh/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/arjunav3y7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/arjunav3y7/" height="30" width="40" /></a>
+</p>
 
-Each of my projects is a step toward creating impactful technology:
+<h3 align="left">Languages and Tools:</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
 
-#### **📱 Grab** *(Dec 2023 - Feb 2024)*  
-A news app focusing on **real-time tech, business, and crypto updates**.  
-**Key Highlights**:
-- **Secure Authentication**: Implemented Firebase for a smooth, secure login experience.
-- **Seamless Data Access**: Room Database integration for quick access to bookmarked articles.
-- **Smart Assistant**: Created *GrabBot*, a chatbot guiding users to their favorite reads.
-- **Tools**: Android Studio, Kotlin, Jetpack Compose, Firebase, MVVM Architecture, REST APIs
+###
 
-#### **🚍 HRTC** *(Oct 2022 - Jan 2023)*  
-Automating bus scheduling and route management for **Himachal Pradesh’s public transit system**.  
-**Key Highlights**:
-- Conductor-friendly UI to update seat availability and route info.
-- Integrated WebView for real-time tracking of routes via RedBus and HRTC.
-- Collaborative effort with a team, adding features like dark mode and notifications.
-- **Tools**: XML, Firebase, WebView, Android
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niteshkrjhag&show_icons=true&locale=en&layout=compact" alt="niteshkrjhag" /></p>
 
-#### **🏋️‍♂️ 45-Minute Workout App** *(Personal Project)*  
-Created a fitness app with **11 guided workouts**, a BMI calculator, and **music cues** to keep up the motivation.  
-**Built Using**: Kotlin, XML
-
----
-
-### ⚙️ Practice Projects
-
-- **DiceGame** - A fun, random dice roll app using **Kotlin Multiplatform** for cross-platform support.
-- **ATM Management System** - Core banking features designed in C++ using OOP principles.
-- **Student Management System** - Built a C++ interface to handle student data using modular design.
-
----
-
-### 🎓 Coursework & Certifications
-
-My academic and certification journey has enriched my practical skill set:
-- **Relevant Coursework**: Object-Oriented Programming, Data Structures, Operating Systems, DBMS, Software Engineering
-- **Certifications**:
-  - *Linux Essentials* - Great Learning, Sep 2024
-  - *Full Stack Android Development* - Neat Roots, Aug 2024
-
----
-
-### 🏆 Achievements & Recognition
-
-- **Global Rank 1916** in *Starters 133 Division 4* - *May 2024*
-- Solved **1000+ DSA problems on CodeChef** 🔥
-- *Selected twice for Smart India Hackathon* (SIH) at the college level
-
----
-
-### 🌱 Strengths
-
-- **Analytical** – Keen problem-solving skills rooted in strong analytical thinking.
-- **Adaptable** – Quick to learn and adapt to new technologies.
-- **Collaborative** – Effective communicator with a solid background in teamwork.
-
----
-
-### 📫 Let's Connect
-
-Let’s collaborate, innovate, and make tech more impactful together!  
-- **GitHub**: https://github.com/Niteshkrjhag
-- **LinkedIn**: https://www.linkedin.com/in/nitesh-kr-jha-🏹-959595250/
-- **Email**: niteshkrjhag@gmail.com
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niteshkrjhag&show_icons=true&locale=en" alt="niteshkrjhag" /></p>
 
 
 ---
