@@ -16,6 +16,18 @@ Driven by curiosity, I am constantly exploring multiple tech stacks to refine my
 
 ---
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=niteshkrjhag&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+---
+
 ### 🔥 Core Skill Set
 
 - **Programming Languages**: C/C++, Python, Kotlin, SQL, HTML, CSS  
@@ -92,5 +104,6 @@ Let’s collaborate, innovate, and make tech more impactful together!
 - **GitHub**: https://github.com/Niteshkrjhag
 - **LinkedIn**: https://www.linkedin.com/in/nitesh-kr-jha-🏹-959595250/
 - **Email**: niteshkrjhag@gmail.com
+
 
 ---
