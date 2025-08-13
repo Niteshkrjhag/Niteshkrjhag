@@ -12,7 +12,7 @@
     
 ## 📘 About Me
 
-Hello, I'm a pre-final year Computer Science student at NIT Srinagar, with a focus on Android development and a knack for problem-solving. I enjoy tackling complex challenges in Data Structures and Algorithms and building apps that people love to use.
+Hello, I'm a final year Computer Science student at NIT Srinagar, with a focus on Android development and a knack for problem-solving. I enjoy tackling complex challenges in Data Structures and Algorithms and building apps that people love to use.
 Curiosity, lifelong learning, and a commitment to excellence are what drive my career in technology. Whether it's designing intuitive mobile interfaces, optimizing backend logic, or diving into a new tech stack, I'm always excited to bring ideas to life in a meaningful way.
 Be it **building efficient data structures**, creating **responsive mobile apps**, or collaborating on team-based solutions, I’m on a mission to develop practical solutions that stand out.
 
