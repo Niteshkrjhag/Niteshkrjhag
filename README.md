@@ -4,7 +4,7 @@
 # Hello there! 👋 I’m Nitesh Kumar Jha
 
 🚀 **Empowering Tech with Code and Curiosity**  
-**📍 Currently a Pre-final Year B.Tech Student | NIT Srinagar | Computer Science**
+**📍 Currently a Final Year B.Tech Student | NIT Srinagar | Computer Science**
 
 ---
  <br>
