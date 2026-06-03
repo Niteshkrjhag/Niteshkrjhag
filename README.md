@@ -107,12 +107,8 @@ I enjoy building systems that combine strong engineering fundamentals with pract
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nitesh-kr-jha🏹-959595250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitesh-kr-jha-🏹-959595250/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/27419971/arjuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27419971/arjuna" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/niteshkrjha01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/niteshkrjha01" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/arjuna_undefined" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/arjuna_undefined" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/hero_nitesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hero_nitesh/" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/nitesh01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/arjunav3y7/" height="30" width="40" /></a>
+- GitHub: https://github.com/niteshkrjhag
+- LinkedIn: https://www.linkedin.com/in/nitesh-kr-jha-/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
